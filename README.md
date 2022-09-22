@@ -1,2 +1,2 @@
-# python-oneliners
-A personal collection of python oneliners
+# python scripts
+Simple but useful python scripts I find during my coding.
